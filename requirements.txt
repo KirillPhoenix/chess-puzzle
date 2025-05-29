@@ -1,0 +1,1 @@
+playwright==1.47.0 python-stockfish==3.28.0
